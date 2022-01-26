@@ -1,2 +1,2 @@
 # PokeBot_philippe_mahapatra
- Poke bot COding club Epitech
+ Poke bot Coding club Epitech
